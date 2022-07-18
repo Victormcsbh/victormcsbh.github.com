@@ -13,4 +13,12 @@ victormcsbh.github.com
     },
     "appearance": "bright",
     "engine": "google"
+}{
+    "thumbnail": "thumbnail.jpg", 
+    "location": "./gamelocation/",
+    "title": "Game title"
 }
+git clone https://github.com/titaniumnetwork-dev/Incognito
+cd Incognito
+npm install
+npm start
